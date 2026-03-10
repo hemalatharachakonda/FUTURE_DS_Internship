@@ -33,6 +33,8 @@ Deliverable: A retention analysis dashboard or report highlighting churn reasons
    - Combined key pivot charts into a single **Dashboard** sheet.  
    - Added **slicers** for `Contract`, `InternetService`, and `PaymentMethod` to enable interactive filtering.  
    - Displayed high‑level KPIs: Total Customers, Overall Churn Rate, Average Monthly Charges.
+4. **DashBoard**
+   <img width="1209" height="1053" alt="image" src="https://github.com/user-attachments/assets/951c1391-bf77-4459-aa88-4a92f5d51a69" />
 
 ##  Key Insights
 - **Contract Type:** Month‑to‑month contracts have the highest churn rate at **[XX]%**, compared to **[YY]%** for one‑year and **[ZZ]%** for two‑year contracts.
